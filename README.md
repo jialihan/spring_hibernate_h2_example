@@ -1,1 +1,1 @@
-# spring_hibernate_mysql_example
+# springboot_hibernate_h2_example
