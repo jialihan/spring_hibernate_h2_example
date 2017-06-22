@@ -1,0 +1,16 @@
+#使用yaml文件来配置
+#
+#spring:
+
+## 数据库配置使用mysql 或者 H2数据库
+
+#  datasource:
+#    username: oooo
+#    password: xxxx
+#    url: jdbc:mysql://dev.lab.alipay.net:3306/promotion
+#    driver-class-name: com.mysql.jdbc.Driver
+#    # 配置 hibernate 属性
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
